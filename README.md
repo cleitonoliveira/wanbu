@@ -1,0 +1,1 @@
+Projeto para um sistema de compras. Tem a intenção de permitir que as pessoas adicionem o que querem comprar e sejam expostas a vendedores interessados em oferecer o que eles querem. O vendedor não precisa anunciar e "borrifar" anúncios, o comprador não precisa ir atrás de vendedores procurando algum que ofereça mais ou menos o que ele quer.
